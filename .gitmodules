@@ -1,0 +1,3 @@
+[submodule "coordinator/LanguageCE"]
+	path = coordinator/LanguageCE
+	url = https://github.com/nesl/LanguageCE

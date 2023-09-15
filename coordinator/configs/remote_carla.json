@@ -1,0 +1,12 @@
+{
+    "server_ip": "XXX.XXX.XXX.XXX",
+    "server_port": 6792,
+    "class_mappings":
+    {
+        "person": 0,
+        "car": 2,
+        "package": 30
+    },
+    "ce_type": "carla",
+    "video_folder": ""
+}
