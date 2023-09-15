@@ -1,0 +1,17 @@
+opencv-python==4.8.0.76
+tqdm==4.66.1
+numpy==1.22.4
+pybboxes==0.1.6
+torch
+torchvision
+vidsz==0.2.0
+scikit-learn==1.3.0
+lap==0.4.0
+Cython==0.29.33
+cython-bbox==0.1.3
+ipython==8.11.0
+pandas==1.5.3
+PyYAML==6.0
+matplotlib==3.5.3
+psutil==5.9.4
+seaborn==0.12.2

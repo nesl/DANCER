@@ -1,0 +1,9 @@
+venv
+client/byte_tracker/__pycache__
+client/yolov5/__pycache__
+client/yolov5/runs
+client/yolov5/utils/__pycache__
+client/__pycache__
+client/configs/private
+client/models/*
+coordinator/configs/private

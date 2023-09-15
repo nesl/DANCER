@@ -1,0 +1,13 @@
+{
+
+    "event_detector_ip": "127.0.0.1",
+    "ce_server_ip": "127.0.0.1",
+    "event_detector_port": 6703,
+    "ce_server_port": 6792,
+    "model_path": "models/yolov5s_best_adapt.pt",
+    "model_input_size": "(480, 640)",
+    "temp_video_path": "data/video.mp4",
+    "result_dir": "ae_results_adapt",
+    "stride": 1,
+    "extra_wb_data": "watchboxes:[ [1,1,1919,1079, 1] ]"
+}

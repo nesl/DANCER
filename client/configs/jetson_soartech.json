@@ -1,0 +1,13 @@
+{
+
+    "event_detector_ip": "XXX.XXX.XXX.XXX",
+    "ce_server_ip": "XXX.XXX.XXX.XXX",
+    "event_detector_port": 6703,
+    "ce_server_port": 6792,
+    "model_path": "models/soartechDetectorV2.pt",
+    "model_input_size": "(1080,1920)",
+    "temp_video_path": "data/video.mp4",
+    "result_dir": "ae_results",
+    "stride": 3,
+    "extra_wb_data": "watchboxes:[ [213,274,772,772,0] ]"
+}
